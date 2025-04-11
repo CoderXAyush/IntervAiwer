@@ -32,8 +32,8 @@ Built with Next.js for the user interface and backend logic, Firebase for authen
 - Firebase
 - Tailwind CSS
 - Vapi AI
-- shadcn/ui
-- Google Gemeni
+- Shadcn/UI
+- Google Gemini
 - Zod
 
 ## <a name="features">🔋 Features</a>
